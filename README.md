@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sonic 3 A.I.R Modding and Godot Programming
 - 🌱 I’m currently learning GDScript and LemonScripting
 - 📫 How to reach me through Email: uasonk@gmail.com
-- 😄 Pronouns: Blue/Blur
+- 😄 Pronouns: Blue/Blur /jk
 - ⚡ Fun fact: I just wasted your time by making you read this "Fun Fact"
 
 I am doing Godot programming, and lemonscript! 
