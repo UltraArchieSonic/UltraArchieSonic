@@ -6,9 +6,10 @@
 - ⚡ Fun fact: I just wasted your time by making you read this "Fun Fact"
 
 I am doing Godot programming, and lemonscript! 
-At the moment, I am working on a game, which takes inspiration from Sonic.EXE The Disaster
+At the moment, I am working on a game, which takes inspiration from Sonic.EXE Outcome Memories
 fun thing is... It's not going to be a Sonic.EXE game though. It's going to be a Sonic game!
 It's going to be based on the Archie Comics and Fan content, like Nazo unleashed etc.
+(yes it's in 3D and built in Godot)
 more info Soon!
 
 I am also working on a few Sonic 3 AIR mods! like Sonic with Goku's forms! or another Sonic mod...
